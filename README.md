@@ -1,4 +1,4 @@
-# Recipes-for-a-chart-buster
+# Recipes-for-a-chart-buster and Song Recommendations
 Business purviews: 
   Predicition of a chart buster based on lyrics and elements of music in a song
   Recommend right ingredients for a chart buster
