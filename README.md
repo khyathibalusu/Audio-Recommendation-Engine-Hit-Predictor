@@ -5,7 +5,7 @@ Business purviews:
   Content based song recommendations
   
 We have used Spotify for songs, last.fm for listener count and Genius for lyrics.
-We scraping, Topic Modeling, Sentiment Analysis, Regression and Classification for recommendations have been used
+Web scraping, Topic Modeling, Sentiment Analysis, Regression and Classification for recommendations have been used
 
 ![Alt Text](Intro_Picture.png)
 
